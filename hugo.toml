@@ -12,6 +12,7 @@ enableRobotsTXT = true
 [params]
   defaultTheme = "auto"
   showReadingTime = true
+  googleAnalytics = ""
 
 [services]
   [services.googleAnalytics]
