@@ -1,0 +1,22 @@
+baseURL = "https://emmanuelardianto.github.io/"
+title = "emmanuel"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  showReadingTime = true
+
+[services]
+  [services.googleAnalytics]
+    id = ""
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:day/:slug/"
+
+[pagination]
+  pagerSize = 10

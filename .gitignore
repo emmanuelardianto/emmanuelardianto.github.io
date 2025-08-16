@@ -1,0 +1,31 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+/.hugo_build.lock
+
+# If using Hugo Modules (safe to regenerate)
+ /_vendor/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*.swo
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.iml
+
+# Node stuff (if you later add tooling for CSS/JS)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
