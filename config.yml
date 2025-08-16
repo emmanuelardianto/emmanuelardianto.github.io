@@ -1,0 +1,45 @@
+title: "emmanuel"
+theme: "PaperMod"
+baseURL: "https://emmanuelardianto.github.io/"
+
+module:
+  imports:
+    - path: "github.com/adityatelange/hugo-PaperMod"
+
+enableRobotsTXT: true
+
+params:
+  defaultTheme: "auto"
+  showReadingTime: true
+  googleAnalytics: ""
+
+  homeInfoParams:
+    Title: "Konnichiwa, I'm Emmanuel"
+    Content: >
+      - 👋
+
+      - I’m a software engineer based in Japan with over 10 years of experience in PHP and JavaScript. I’ve spent the last few years building ecommerce platforms and backend systems using Laravel and Vue.js. Recently, I’ve been learning TypeScript and Go to grow my skills and explore modern development approaches.
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/emmanuel-sitinjak-703b1a67/"
+
+services:
+  googleAnalytics:
+    id: ""
+
+markup:
+  highlight:
+    noClasses: false
+
+permalinks:
+  posts: "/posts/:year/:month/:day/:slug/"
+
+pagination:
+  pagerSize: 10
+
+menu:
+  main:
+    - identifier: about
+      name: "About Me"
+      url: /about/
+      weight: 10
