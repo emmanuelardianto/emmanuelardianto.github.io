@@ -14,14 +14,14 @@ params:
   googleAnalytics: ""
 
   homeInfoParams:
-    Title: "Konnichiwa, I'm Emmanuel"
+    Title: "Konnichiwa, I'm emmanuel 👋"
     Content: >
-      - 👋
-
       - I’m a software engineer based in Japan with over 10 years of experience in PHP and JavaScript. I’ve spent the last few years building ecommerce platforms and backend systems using Laravel and Vue.js. Recently, I’ve been learning TypeScript and Go to grow my skills and explore modern development approaches.
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/emmanuel-sitinjak-703b1a67/"
+    - name: "github"
+      url: "https://github.com/emmanuelardianto"
 
 services:
   googleAnalytics:

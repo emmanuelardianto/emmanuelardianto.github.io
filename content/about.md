@@ -9,3 +9,5 @@ I’m a software engineer based in Japan with over 9 years of experience in PHP,
 I’ve built and maintained ecommerce platforms, and I’m currently learning TypeScript and Go to deepen my full-stack development skills.
 
 Outside of coding, I enjoy photography and documenting daily life in Japan through visual storytelling.
+
+[ [Work Experiences](/experiences) ] | [ [Skills](/skills) ]
