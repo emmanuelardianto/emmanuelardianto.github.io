@@ -1,6 +1,5 @@
 +++
 date = '2025-08-16T11:44:49+09:00'
-draft = true
 title = 'Day 4 Learning Typescript Class: Readonly Inheritance Abstract'
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2025-08-13T11:40:56+09:00'
-draft = true
 title = 'Day 2 Learning Typescript -  Object Destructuring'
 +++
 
