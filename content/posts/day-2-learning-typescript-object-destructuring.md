@@ -1,7 +1,12 @@
-+++
-date = '2025-08-13T11:40:56+09:00'
-title = 'Day 2 Learning Typescript -  Object Destructuring'
-+++
+---
+date: '2025-08-13T11:40:56+09:00'
+title: 'Day 2 Learning Typescript -  Object Destructuring'
+categories:
+- development
+tags:
+- typescript
+- udemy
+---
 
 Object destructuring allows the extraction of properties from an object.
 

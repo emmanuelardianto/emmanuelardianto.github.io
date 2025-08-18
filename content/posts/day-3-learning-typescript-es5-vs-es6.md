@@ -1,7 +1,12 @@
-+++
-date = '2025-08-14T11:42:38+09:00'
-title = 'Day 3 Learning Typescript Es5 vs Es6'
-+++
+---
+date: '2025-08-14T11:42:38+09:00'
+title: 'Day 3 Learning Typescript Es5 vs Es6'
+categories:
+- development
+tags:
+- typescript
+- udemy
+---
 
 Essentially, all TypeScript code will be compiled into JavaScript. The compiler can be set to ES5 or ES6. ES5 is an older JavaScript syntax. The contrast differences are:
 

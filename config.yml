@@ -25,7 +25,7 @@ params:
 
 services:
   googleAnalytics:
-    id: ""
+    id: "G-EVMP4DKL9F"
 
 markup:
   highlight:
@@ -43,3 +43,6 @@ menu:
       name: "About Me"
       url: /about/
       weight: 10
+
+frontmatter:
+  format: yaml

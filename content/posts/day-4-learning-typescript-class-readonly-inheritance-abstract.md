@@ -1,7 +1,12 @@
-+++
-date = '2025-08-16T11:44:49+09:00'
-title = 'Day 4 Learning Typescript Class: Readonly Inheritance Abstract'
-+++
+---
+date: '2025-08-16T11:44:49+09:00'
+title: 'Day 4 Learning Typescript Class: Readonly Inheritance Abstract'
+categories:
+- development
+tags:
+- typescript
+- udemy
+---
 
 
 ```Readonly property```, meaning the properties of the constructed type cannot be reassigned. Note: whenever assigning a value to a variable, in JavaScript the variable is pointing to a location, not a value. So the property value could be changed, but not reassigned.
