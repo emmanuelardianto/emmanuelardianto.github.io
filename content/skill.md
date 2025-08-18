@@ -1,6 +1,5 @@
 ---
 title: "Skills"
-layout: "default"
 url: "/skills/"
 ---
 

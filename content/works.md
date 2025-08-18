@@ -1,6 +1,5 @@
 ---
 title: "Work Experiences"
-layout: "default"
 url: "/experiences/"
 ---
 
